@@ -6,3 +6,5 @@ http://kvz.io/blog/2007/10/03/convert-anything-to-tree-structures-in-php/
 
 I modified it a little and implemented it into a smarty plugin function and template.
 
+Index.php is a simple implementatio of it - not affiliated with the Smarty plugin.
+
